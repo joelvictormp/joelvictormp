@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">Passionate about technology and the infinite possibilities it provides</h3>
 
-- 🔭 I’m currently working on **Data analytics Sars-Cov-2 at Corumbá/MS 2020-2022**
+My Works 
 
-- 🌱 I’m currently learning **Phyton and Machine Learn**
+https://app.powerbi.com/view?r=eyJrIjoiNzViNmYyM2ItOWM5MC00Yzc5LTk5ZDItYzI0M2EzNDRkZTFjIiwidCI6ImJmOWZmZWQxLTA0ZTctNGNlOS04ZGVhLWM3MTljMDA3ZjAyYyJ9
 
-- 💬 Ask me about **SQL, Python, Power BI, Excell,**
 
-- 📫 How to reach me **joelvictormp@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/joelvictormp/](https://www.linkedin.com/in/joelvictormp/)
-
-- ⚡ Fun fact **Love Cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
