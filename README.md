@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">Passionate about technology and the infinite possibilities it provides</h3>
 
 
 <h3 align="left">Connect with me:</h3>
