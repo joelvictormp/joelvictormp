@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">Passionate about technology and the infinite possibilities it provides</h3>
 
-My Works 
-
-https://app.powerbi.com/view?r=eyJrIjoiNzViNmYyM2ItOWM5MC00Yzc5LTk5ZDItYzI0M2EzNDRkZTFjIiwidCI6ImJmOWZmZWQxLTA0ZTctNGNlOS04ZGVhLWM3MTljMDA3ZjAyYyJ9
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
